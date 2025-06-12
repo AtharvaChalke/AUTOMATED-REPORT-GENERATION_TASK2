@@ -28,3 +28,7 @@ This solution saves teacher's and other staff's significant time during grading 
 
 
 For seeing the output of task2.ipynb u can either download the *GradeReports.ZIP* or you can view each individual reports and summary report I have uploaded in repo
+
+*OUTPUT_FOR_SUMMARY_REPORT:*
+
+![Image](https://github.com/user-attachments/assets/c921fd52-3383-4b6d-be9c-28de4111e555)
